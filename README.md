@@ -1,5 +1,7 @@
 ## Description
 
+A fork of https://github.com/brainopia/sidekiq-limit_fetch
+
 Sidekiq strategy to support a granular queue control –
 limiting, pausing, blocking, querying.
 
@@ -12,7 +14,7 @@ limiting, pausing, blocking, querying.
 
 Add this line to your application's Gemfile:
 
-    gem 'sidekiq-limit_fetch'
+    gem 'rcgt-sidekiq-limit_fetch'
 
 ### Requirements
 
