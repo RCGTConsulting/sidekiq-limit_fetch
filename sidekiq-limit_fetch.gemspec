@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name          = 'rcgt-sidekiq-limit_fetch'
-  gem.version       = '3.4.0'
+  gem.version       = '3.4.1'
   gem.license       = 'MIT'
   gem.authors       = 'RCGT Consulting Inc.'
   gem.email         = 'kumanan.yogaratnam@rcgtconsulting.com'
